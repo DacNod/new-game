@@ -1,2 +1,5 @@
-# new-game
-一个小项目
+# inclulde <stdio.h>
+int main()
+{
+  printf("hello worild");
+}
